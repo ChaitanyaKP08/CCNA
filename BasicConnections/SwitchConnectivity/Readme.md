@@ -23,9 +23,9 @@ The .unl file is the export of the lab from the eve ng environment
 
 ![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-51-49.png?raw=true)
 
-5.Obtain an IP automatically is set to recieve ip by DHCP server.Select Use the following IP address and assign the IP address to the device
+5.Obtain an IP automatically is set to recieve ip by DHCP server.Select Use the following IP address and assign the IP address to the device.Select ok and close all the remaining windows
 
 ![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)
 
 6.The IP configurations of the two servers are:
-![image_alt]()
+![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)
