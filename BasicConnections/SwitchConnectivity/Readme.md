@@ -28,4 +28,4 @@ The .unl file is the export of the lab from the eve ng environment
 ![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)
 
 6.The IP configurations of the two servers are:
-![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)
+![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-53-14.png?raw=true)![image_alt](https://github.com/ChaitanyaKP08/CCNA/blob/main/BasicConnections/SwitchConnectivity/Images/Screenshot%20from%202025-10-24%2018-57-36.png?raw=true)
